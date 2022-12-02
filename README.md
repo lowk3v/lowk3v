@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Readme Card: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 Badge: https://shields.io/category/social
 Visitor: https://visitor-badge.glitch.me
--->>
+Emoji: https://gist.github.com/rxaviers/7360908
 -->
 
 ### Hi, I'm LowK
@@ -35,13 +35,13 @@ Visitor: https://visitor-badge.glitch.me
 
 [![Lowk3v](https://github-readme-stats.vercel.app/api?username=lowk3v&show_icons=true&theme=gotham&count_private=true)](https://github.com/lowk3v)
 
-# Available template for coding
+# :dog: Available template for coding
 
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=go-saas-template&theme=react)](https://github.com/lowk3v/go-saas-template)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=fastapi-project-template&theme=react)](https://github.com/lowk3v/fastapi-project-template)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/https://github.com/lowk3v/dapp-scaffold)
 
-# 📫 How to get in touch me
+# :dolphin: How to get in touch me
 
 [Twitter](https://twitter.com/Low_K_)  
 [Linkedin](https://www.linkedin.com/in/l%C3%A2m-ph%C3%A1t-%C4%91%E1%BA%A1t-8b3132126/)  
