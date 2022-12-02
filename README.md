@@ -27,13 +27,8 @@ Emoji: https://gist.github.com/rxaviers/7360908
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lowk3v.visitor-badge)  
 ![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
 
-# ⚡ Favorite languages and tools
-
-[![Lowk3v](https://github-readme-stats.vercel.app/api/top-langs/?username=lowk3v&hide=php,javqascript,css,html,scss,c,tcl&show_icons=true&count_private=true&theme=gotham&layout=compact&langs_count=6)](https://github.com/lowk3v)
-
-# :octocat: Github contributions
-
-[![Lowk3v](https://github-readme-stats.vercel.app/api?username=lowk3v&show_icons=true&theme=gotham&count_private=true)](https://github.com/lowk3v)
+![Lowk3v](https://github-readme-stats.vercel.app/api?username=lowk3v&show_icons=true&theme=gotham&count_private=true)
+![Lowk3v](https://github-readme-stats.vercel.app/api/top-langs/?username=lowk3v&hide=php,javqascript,css,html,scss,c,tcl,asp&show_icons=true&count_private=true&theme=gotham&layout=compact&langs_count=8)
 
 # :dog: Available template for coding
 
