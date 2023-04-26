@@ -21,8 +21,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 ### Hi, I'm LowK
 (Low in low-key, K in Kevin)
 
-👯 I'm working for [ZaloPay](https://zalopay.vn/) company.  
-🌱 I’m currently learning Blockchain security, Solidity security code review and golang.  
+👯 I'm working as indie blockchain security auditor.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lowk3v.visitor-badge)  
 ![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
