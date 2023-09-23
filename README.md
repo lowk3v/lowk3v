@@ -33,7 +33,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=go-saas-template&theme=react)](https://github.com/lowk3v/go-saas-template)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=fastapi-project-template&theme=react)](https://github.com/lowk3v/fastapi-project-template)
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/https://github.com/lowk3v/dapp-scaffold)
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/dapp-scaffold)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=hardhat-foundry-template&theme=react)](https://github.com/lowk3v/hardhat-foundry-template)
 
 
