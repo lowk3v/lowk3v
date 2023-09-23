@@ -39,6 +39,6 @@ Emoji: https://gist.github.com/rxaviers/7360908
 
 # :dolphin: How to get in touch with me
 
-[Portfolio](https://lowk.me)
+[Portfolio](https://lowk.me)  
 [Twitter](https://twitter.com/LowK3v)  
 [Linkedin](https://www.linkedin.com/in/Lowk3v)  
