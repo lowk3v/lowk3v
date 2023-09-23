@@ -21,7 +21,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 ### Hi, I'm LowK
 (Low in low-key, K in Kevin)
 
-👯 I'm working as indie blockchain security auditor.
+👯 I'm working as an indie blockchain security auditor.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lowk3v.visitor-badge)  
 ![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
@@ -37,7 +37,8 @@ Emoji: https://gist.github.com/rxaviers/7360908
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=hardhat-foundry-template&theme=react)](https://github.com/lowk3v/hardhat-foundry-template)
 
 
-# :dolphin: How to get in touch me
+# :dolphin: How to get in touch with me
 
-[Twitter](https://twitter.com/Low_K_)  
-[Linkedin](https://www.linkedin.com/in/l%C3%A2m-ph%C3%A1t-%C4%91%E1%BA%A1t-8b3132126/)  
+[Portfolio](https://lowk.me)
+[Twitter](https://twitter.com/LowK3v)  
+[Linkedin](https://www.linkedin.com/in/Lowk3v)  
