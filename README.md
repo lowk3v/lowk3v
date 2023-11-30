@@ -21,24 +21,27 @@ Emoji: https://gist.github.com/rxaviers/7360908
 ### Hi, I'm LowK
 (Low in low-key, K in Kevin)
 
-👯 I'm working as an indie blockchain security auditor.
+👯 I'm working as an indie blockchain security auditor. 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lowk3v.visitor-badge)  
-![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
+🔭 An ex-penetration tester from 2017.
 
-![Lowk3v](https://github-readme-stats.vercel.app/api?username=lowk3v&show_icons=true&theme=gotham&count_private=true)
-![Lowk3v](https://github-readme-stats.vercel.app/api/top-langs/?username=lowk3v&hide=php,javqascript,css,html,scss,c,tcl,asp&show_icons=true&count_private=true&theme=gotham&layout=compact&langs_count=8)
-
-# :dog: Available template for coding
-
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=go-saas-template&theme=react)](https://github.com/lowk3v/go-saas-template)
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=fastapi-project-template&theme=react)](https://github.com/lowk3v/fastapi-project-template)
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/dapp-scaffold)
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=hardhat-foundry-template&theme=react)](https://github.com/lowk3v/hardhat-foundry-template)
-
+👯 Participate in blockchain security contests on Code4rena, Sherlock, and bug hunter on Immunefi.
 
 # :dolphin: How to get in touch with me
 
 [Portfolio](https://lowk.me)  
 [Twitter](https://twitter.com/LowK3v)  
-[Linkedin](https://www.linkedin.com/in/Lowk3v)  
+[Linkedin](https://www.linkedin.com/in/Lowk3v) 
+
+![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
+
+![Lowk3v](https://github-readme-stats.vercel.app/api?username=lowk3v&show_icons=true&theme=gotham&count_private=true)
+![Lowk3v](https://github-readme-stats.vercel.app/api/top-langs/?username=lowk3v&hide=php,javqascript,css,html,scss,c,tcl,asp&show_icons=true&count_private=true&theme=gotham&layout=compact&langs_count=8)
+
+# :dog: Strong repositories
+
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=lowk-me&theme=react)](https://github.com/lowk3v/lowk-me)
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=foundry-audit-template&theme=react)](https://github.com/lowk3v/foundry-audit-template)
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/dapp-scaffold)
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=hacks&theme=react)](https://github.com/lowk3v/hacks)
+ 
