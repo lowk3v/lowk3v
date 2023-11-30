@@ -25,12 +25,12 @@ Emoji: https://gist.github.com/rxaviers/7360908
 
 🔭 An ex-penetration tester from 2017.
 
-👯 Participate in blockchain security contests on Code4rena, Sherlock, and bug hunter on Immunefi.
+👯 Participate in blockchain security contests on Code4rena, Sherlock, and Bug Hunter on Immunefi.
 
 # :dolphin: How to get in touch with me
 
-[Portfolio](https://lowk.me)  
-[Twitter](https://twitter.com/LowK3v)  
+[Portfolio](https://lowk.me/projects)  
+[Twitter](https://twitter.com/LowK3v_)  
 [Linkedin](https://www.linkedin.com/in/Lowk3v) 
 
 ![Skills](https://img.shields.io/badge/Skills-Audit-blue)![Skills](https://img.shields.io/badge/-Code-success)![Skills](https://img.shields.io/badge/-Security-red)
