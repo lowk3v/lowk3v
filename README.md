@@ -43,5 +43,5 @@ Emoji: https://gist.github.com/rxaviers/7360908
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=lowk-me&theme=react)](https://github.com/lowk3v/lowk-me)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=foundry-audit-template&theme=react)](https://github.com/lowk3v/foundry-audit-template)
 [![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=dapp-scaffold&theme=react)](https://github.com/lowk3v/dapp-scaffold)
-[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=hacks&theme=react)](https://github.com/lowk3v/hacks)
+[![Lowk3v](https://github-readme-stats.vercel.app/api/pin/?username=lowk3v&repo=telegram-bot-template&theme=react)]([https://github.com/lowk3v/hacks](https://github.com/lowk3v/telegram-bot-template)https://github.com/lowk3v/telegram-bot-template)
  
